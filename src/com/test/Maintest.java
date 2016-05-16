@@ -8,6 +8,7 @@ public class Maintest {
 		
 		System.out.println("hao kaixin");
         
+		System.out.println("hehe");
 	}
 
 }
